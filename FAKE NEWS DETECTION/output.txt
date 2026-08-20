@@ -1,0 +1,17 @@
+--------------------------------
+Sensational Words :  4
+Suspicious Sources:  2
+Emotional Words   :  3
+Verified Sources  :  0
+Fake Score        : 17
+RESULT: FAKE NEWS
+--------------------------------
+
+--------------------------------
+Sensational Words :  1
+Suspicious Sources:  0
+Emotional Words   :  1
+Verified Sources  :  3
+Fake Score        : 0
+RESULT: REAL NEWS
+--------------------------------
